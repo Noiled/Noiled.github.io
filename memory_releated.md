@@ -16,9 +16,7 @@ focus on Mobile platform
 
 - All
 
-    Address Sanitizer used for debug memory underflow or overflow bugs, very useful
-
-    more at [MallocDebug](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/MallocDebug.html#//apple_ref/doc/uid/20001884-CJBJFIDD)
+    Address Sanitizer used for debug memory underflow or overflow bugs, very useful. learn more at [MallocDebug](https://developer.apple.com/library/content/documentation/Performance/Conceptual/ManagingMemory/Articles/MallocDebug.html#//apple_ref/doc/uid/20001884-CJBJFIDD)
 
 
     gcc & clang introduce ASan feature, just add -fsanitize=address, very useful options
