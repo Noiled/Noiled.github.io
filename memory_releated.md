@@ -21,7 +21,7 @@ focus on Mobile platform
 
     gcc & clang introduce ASan feature, just add -fsanitize=address, very useful options
 
-    this feture rely on google's open source prjoect  [sanitizers] (https://github.com/google/sanitizers)
+    this feture rely on google's open source prjoect  [sanitizers](https://github.com/google/sanitizers)
 
 
 
