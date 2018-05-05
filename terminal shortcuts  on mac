@@ -1,0 +1,12 @@
+action | shortcut  
+- | -
+从光标处剪切文本直至本行结束 | ctrl + k
+粘贴文本|ctrl + y
+将光标移到本行的末尾|ctrl + e
+将光标移动到本行的开头 |ctrl + a
+剪切光标前一个词 |ctrl + w
+清除屏幕|ctrl + l
+搜索以前使用命令|ctrl + r
+清除当前行|ctrl + u
+清除至当前行尾|ctrl + k
+单词为单位移动|option + 方向键
